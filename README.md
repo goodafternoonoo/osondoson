@@ -9,12 +9,7 @@ FitBuddy(임시)
 "Fit(건강한) + Buddy(친구)"의 합성어로, 함께 운동을 할 동반자를 찾는다는 컨셉으로 만든 웹 사이트
 
 ## 정보
-엘리스 AI 트랙에서 진행한 "3주 데이터 분석 프로젝트 만들기" 과정의 프론트엔드입니다
-
-## 배포주소
-- 웹사이트:
-- 백엔드:
-- 프론트엔드:
+엘리스 AI 트랙에서 진행한 "3주 데이터 분석 프로젝트 만들기" 과정의 프론트엔드입니다.
 
 ## 프론트엔드 팀 소개
 - 김성연: 게시판 담당
@@ -23,25 +18,6 @@ FitBuddy(임시)
 
 ## 소개
 >"FitBuddy"는 운동 동반자를 찾는 사람들을 위한 온라인 플랫폼입니다. 사용자들이 선호하는 운동 종목을 설정하여 자신과 잘 맞는 운동 파트너를 찾을 수 있도록 돕습니다. 또한, 쪽지와 댓글 기능을 통해 통해 사용자들은 서로의 운동 기록을 공유하고, 운동에 대한 조언과 응원을 받을 수 있습니다. FitBuddy는 운동을 즐기는 사람들이 서로 도움을 주고받으며 건강한 라이프스타일을 유지할 수 있는 공간을 제공합니다.
-
-## 시작가이드
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
 ## Stacks
 ### Environment
